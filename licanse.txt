@@ -1,0 +1,32 @@
+License for Copy-Paste Functionality Application
+
+All rights reserved for this software. No permission is granted to copy, reproduce, or otherwise duplicate any part or all of this software, transfer it to any medium, or reproduce it in any other system.
+
+Copying or duplicating this software may lead to legal action and compensation. In the event of copying or duplication, we reserve the right to enforce our legal rights.
+
+This license is issued by the legal owner of the software and is subject to the terms of any license or agreement issued by the legal owner. This license is valid for all copies of the software.
+
+The use of this software is subject to the terms of this license. Users who do not comply with the terms of this license may face legal action.
+
+By using this software, you are deemed to have accepted the terms of this license.
+
+This software is developed by Yusuf Berke Tilki and can only be used by specific individuals.
+
+
+
+TR 
+Kopyalama Yapıştırılma İşlevselliği Uygulaması Lisansı
+
+1.Bu yazılımın tüm hakları saklıdır. Bu yazılımın herhangi bir bölümünü veya tamamını kopyalama, çoğaltma veya başka bir şekilde çoğaltma, herhangi bir ortama aktarma veya başka bir sistemde yeniden üretme izni verilmez.
+
+2.Bu yazılımın kopyalanması veya çoğaltılması, yasal takibata ve tazminata neden olabilir. Kopyalama veya çoğaltma yapılması halinde, yasal haklarımızı kullanma hakkımızı saklı tutarız.
+
+3.Bu lisans, yazılımın yasal sahibi tarafından verilmiştir ve yasal sahibi tarafından verilmiş olan herhangi bir lisansın veya anlaşmanın hükümlerine tabidir. Bu lisans, yazılımın tüm kopyaları için geçerlidir.
+
+4.Bu yazılımın kullanımı, bu lisansın şartlarına bağlıdır. Bu lisans şartlarına uymayan kullanıcılar, yasal işlemlerle karşılaşabilirler.
+
+5.Bu yazılımı kullanarak, bu lisans şartlarını kabul etmiş sayılırsınız.
+
+6.Bu yazılım Yusuf Berke Tilki tarafından yapılmıştır sadece belirli kişiler tarafından kullanabilir
+
+7.Bu yazılımı kullanarak veya dağıtarak yukarıdaki koşulları kabul etmiş sayılırsınız.
